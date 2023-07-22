@@ -1,6 +1,6 @@
 ﻿# Travel Packing List
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+### [Live Site](https://travel-items.netlify.app/)
 
 ![travel-list](https://github.com/ehasan8115/travel-packing-list/assets/90134278/d359ac63-2e10-4a9a-93a6-ec70a728010c)
 
